@@ -1,0 +1,223 @@
+source_text,target_text,score,Rater 1 Explanation,Rater 2 Explanation,Contributor,llm_evaluation,llm_score,llm_score_normalized,score_diff
+One of the purposes of life is to help others without expecting anything in return.,Isa sa layunin ng buhay ay ang tumulong sa kapwa nang walang kapalit,5,translation is natural and meaning is well conveyed,correct and natural sounding translation,Sherwynn Angeles/Gregory Tiong,"Accuracy: 0 point (The translation is inaccurate because it translates ""One of the purposes"" (plural) as ""Isa sa layunin"" (singular). The correct Filipino structure requires the plural marker ""mga"" (""Isa sa mga layunin"") to accurately convey that there are multiple purposes of life, not just one.)
+Fluency: 0 point (The phrase ""Isa sa layunin"" is grammatically incorrect and unnatural in Filipino. The standard, fluent construction is ""Isa sa mga layunin."" This grammatical error significantly harms the natural flow of the sentence for a native speaker.)
+Coherence: 1 point (The sentence's logical structure is sound and directly mirrors the source text. The relationship between the subject (a purpose of life) and the predicate (to help others) is clear and coherent.)
+Cultural Appropriateness: 1 point (The translation uses ""tumulong sa kapwa"" (to help one's fellow person) and ""walang kapalit,"" which are culturally resonant and appropriate concepts in the Philippines, aligning perfectly with the source's benevolent tone.)
+Guideline Adherence: 0 point (The translation violates a fundamental rule of Filipino grammar by not using the plural form (""mga layunin"") after the phrase ""Isa sa"" (One of). A standard style guide would mandate the correct grammatical form.)
+Completeness: 0 point (The translation is incomplete because it omits the plural aspect of ""purposes."" By failing to include ""mga,"" it misses the key information that helping others is one among *several* purposes of life.)
+Total Score: 2 points",2,1,4
+"Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.","Maligayang pagdating sa isang bagong mundo! Sa Monster Hunter: World, ang pinakabagong installment sa serye, masisiyahan ka sa pinakahuling karanasan sa pangangaso, gamit ang lahat ng iyong makakaya upang manghuli ng mga halimaw sa isang bagong mundo na puno ng mga sorpresa at kaguluhan.",4,"""installment"" could be replaced with an apt filipino word (e.g., parte, bahagi, kabanata)",semantic error “Kaguluhan” (for “excitement”),Aira Jin Garganera / Nigel Nograles,"Accuracy: 0 point (The translation contains several significant inaccuracies that alter the source text's meaning. ""Ultimate"" is mistranslated as ""pinakahuling"" (the very last), ""everything at your disposal"" (resources/tools) is incorrectly changed to ""lahat ng iyong makakaya"" (all of your ability/effort), and most critically, ""excitement"" is translated as ""kaguluhan,"" which means chaos or trouble, the direct opposite of the intended feeling.)
+Fluency: 0 point (While grammatically structured, the text is not fluent due to unnatural and incorrect word choices. The use of ""pinakahuling"" for ""ultimate"" is awkward, and ""kaguluhan"" for ""excitement"" makes the sentence nonsensical in its context, disrupting the natural flow of a marketing message.)
+Coherence: 1 point (The translation follows the logical flow and sentence structure of the source text perfectly. Each clause is presented in the same order as the original, maintaining the structural coherence of the message.)
+Cultural Appropriateness: 0 point (The translation severely harms the message's tone by translating ""excitement"" to ""kaguluhan"" (chaos/trouble). For a video game advertisement, this changes the tone from thrilling and fun to negative and stressful, which is culturally inappropriate for the intended marketing purpose.)
+Guideline Adherence: 0 point (The translation fails to adhere to standard terminology for this domain. Key marketing terms like ""ultimate,"" ""at your disposal,"" and ""excitement"" are mistranslated with words that a professional, domain-aware reference would not use. These are not stylistic choices but terminological errors.)
+Completeness: 0 point (The translation alters key pieces of information, thus failing the completeness criterion. The meaning of ""ultimate,"" the nature of the resources (""at your disposal""), and the type of emotion (""excitement"") are all changed, resulting in an incomplete and distorted transfer of the original information.)
+Total Score: 1 point",1,1,3
+"Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.","May ilang lalaking ipinanganak na katamtaman, may ilang nakakamit ang pagiging karaniwan, at may ilan na ipinipilit na lamang sa kanila ang pagiging ganoon.",4,"It mimics the original text's rhythm until the last part, where it reads too literal.","Preserves the structure and meaning well, though katamtaman and ganoon are odd word choices.",Lia Guillermo/Lester Anthony Sityar,"English - Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.
+Translated - May ilang lalaking ipinanganak na katamtaman, may ilang nakakamit ang pagiging karaniwan, at may ilan na ipinipilit na lamang sa kanila ang pagiging ganoon.
+
+Accuracy: 0 point (The translation loses precision by using three different terms—""katamtaman,"" ""karaniwan,"" and the vague pronoun ""ganoon""—for the single, powerful concept of ""mediocrity."" This variation alters the direct and impactful meaning of the original, which relies on repetition for its force.)
+Fluency: 0 point (While grammatically correct, the translation lacks the stylistic fluency of the source. The original's power comes from its rhythmic, parallel structure. The translation's use of varied vocabulary breaks this parallelism, making the sentence less elegant and memorable than a more faithful rendition.)
+Coherence: 0 point (The coherence of the source text is reinforced by its strong parallel structure. The translation weakens this by breaking the repetition, especially in the final clause with ""pagiging ganoon,"" which is a less direct and less cohesive way to refer to the core idea.)
+Cultural Appropriateness: 1 point (The translation uses a standard, neutral tone that is appropriate for the philosophical and witty nature of the quote. The vocabulary is suitable and holds no inappropriate cultural connotations.)
+Guideline Adherence: 0 point (The translation fails to adhere to the stylistic rule of preserving rhetorical devices from the source. A reference translation would maintain the parallelism by using a single, consistent term for ""mediocrity,"" a key feature that this translation disregards.)
+Completeness: 1 point (All the essential informational components from the source text are present: the three distinct ways men encounter mediocrity—by birth, by achievement, and by imposition—are all included in the translated text.)
+Total Score: 2 points",2,1,3
+"For so long, you and me been finding each other for so long.","Matagal na, matagal na tayong dalawa naghahanap sa isa't isa.",2,translates you and me into tayo and the translation of finding is awkward,"You and me' was translated as 'tayo', which might not be the best fit, and the word 'finding' sounds a bit off in the translation.",Ryan Carandang/Riley Veracruz,"English - For so long, you and me been finding each other for so long.
+Translated - Matagal na, matagal na tayong dalawa naghahanap sa isa't isa.
+
+Accuracy: 1 point (The translation perfectly captures the core meaning: two people have been searching for each other for an extended time. The repetition of ""matagal na"" effectively mirrors the repetition of ""for so long"" in the source.)
+Fluency: 1 point (The phrasing ""Matagal na, matagal na tayong dalawa..."" is very natural and idiomatic in Filipino, especially in a conversational or lyrical context. It flows smoothly and sounds authentic.)
+Coherence: 1 point (The structure is logical and clear. Placing the repeated time adverb ""Matagal na"" at the beginning correctly emphasizes the duration, mirroring the structure and intent of the source text.)
+Cultural Appropriateness: 1 point (The tone is personal and emotional, which is perfectly captured by the Filipino translation. The use of ""tayong dalawa"" conveys a sense of intimacy that is appropriate for the message.)
+Guideline Adherence: 1 point (The translation adheres to the informal and emphatic style of the source text. It uses common, conversational language rather than overly formal or literal terms, which matches the style of ""you and me been finding."")
+Completeness: 1 point (All components of the source text are present in the translation: the long duration (matagal na), the repetition for emphasis, the two people involved (tayong dalawa), and the reciprocal action of searching (naghahanap sa isa't isa).)
+Total Score: 6 points",6,5,3
+alam mo ma'am masaya naman topics natin sa philosophy inaantok lang talaga ko kasi ikaw nagdidiscuss,"You know, ma'am, we have a lot of fun philosophy topics. I'm just really sleepy in what you're discussing.",4,"flawed translation is close, but failed to translate that the cause of antok is the ma'am and not the topic.",,Charibeth Cheng,"English source text: alam mo ma'am masaya naman topics natin sa philosophy inaantok lang talaga ko kasi ikaw nagdidiscuss
+Translated text: You know, ma'am, we have a lot of fun philosophy topics. I'm just really sleepy in what you're discussing.
+
+Accuracy: 0 point (The translation changes the core meaning. The source ""kasi ikaw nagdidiscuss"" means the speaker is sleepy *because* the teacher is the one discussing, implying the teacher is boring. The translation ""in what you're discussing"" changes the cause of sleepiness from the person to the topic of discussion, which is a significant semantic error.)
+
+Fluency: 0 point (The phrase ""I'm just really sleepy in what you're discussing"" is grammatically awkward and unnatural. A more fluent phrasing would be ""I get sleepy when you discuss"" or ""...because you're the one discussing."" The use of ""in"" is not idiomatic in this context.)
+
+Coherence: 0 point (The original text establishes a clear cause-and-effect relationship with the word ""kasi"" (because). The translation breaks this logical link, replacing it with a weaker, contextual connection. This alters the logical flow and the intended punchline of the sentence.)
+
+Cultural Appropriateness: 1 point (The translation successfully captures the informal, conversational tone of a student speaking to a teacher, using ""You know, ma'am."" The overall register is appropriate for the context implied by the source text.)
+
+Guideline Adherence: 0 point (The translation fails to adhere to the fundamental rule of accurately conveying the source's semantic structure. It deviates by not translating the causative ""kasi,"" which is the most critical element of the source sentence's meaning.)
+
+Completeness: 0 point (The translation omits a key piece of information: the true reason for the speaker's sleepiness. By changing ""because it's you"" to ""in what you're discussing,"" the information about the causal agent (the teacher) is lost and replaced with incorrect information.)
+
+Total Score: 1 point",1,1,3
+The kernel handles low-level operations in the operating system.,Pinangangasiwaan ng kernel ang mga low-level na operasyon sa operating system.,2,"A lot of English terms are retained, which is somewhat acceptable in tech-related Filipino, but results in many borrowed terms. ""low-level"" could probably be translated though.",Poor localization; relies too much on untranslated English.,Camron Ong / Arvin Tan,"English - The kernel handles low-level operations in the operating system.
+Translated - Pinangangasiwaan ng kernel ang mga low-level na operasyon sa operating system.
+
+Accuracy: 1 point (The translation perfectly captures the meaning of the source text. ""Pinangangasiwaan"" is an excellent equivalent for ""handles"" in this context, and all other elements are translated accurately.)
+Fluency: 1 point (The sentence structure is natural and common in Filipino. The Verb-Actor-Object form is fluid and standard for this type of statement.)
+Coherence: 1 point (The logical flow is clear and correctly mirrors the relationships between the components in the source text. The structure is sound and easy to understand.)
+Cultural Appropriateness: 1 point (The tone is neutral and technical, which is perfectly appropriate for the subject matter. There are no cultural elements to consider, and the translation maintains a formal tone.)
+Guideline Adherence: 1 point (The translation correctly adheres to the standard practice in Filipino technical language by using the English loanwords for ""kernel,"" ""low-level,"" and ""operating system,"" as these are the accepted terms in the domain.)
+Completeness: 1 point (The translation includes all information from the source text: the kernel, the action of handling, the low-level operations, and the location (operating system). Nothing is omitted or altered.)
+
+Total Score: 6 points",6,5,3
+Data normalization helps improve model performance.,Tumutulong sa pagpabuti ng model ang normalisasyon ng datos,5,The translated text is natural and captures the entire essence of the source text,"The translation didn't literally translated the text, and the model was able to capture the relationship between data normalization and model performance.",Paul Ivan Enclonar/Alonzo Rimando,"English - Data normalization helps improve model performance.
+Translated - Tumutulong sa pagpabuti ng model ang normalisasyon ng datos
+
+Accuracy: 0 point (The translation is inaccurate because it omits the word ""performance."" It translates ""model performance"" as simply ""model,"" which significantly alters the meaning. The source specifies what is being improved (performance), while the translation vaguely implies the model itself is being improved.)
+Fluency: 1 point (The sentence structure ""Tumutulong sa [dative object] ang [subject]"" is a very natural and common Filipino construction (Verb-Object-Subject). The flow is smooth and idiomatic.)
+Coherence: 1 point (The logical structure is sound. The relationship between the subject (data normalization) and its action (helps improve) is clear, following a standard Filipino sentence pattern.)
+Cultural Appropriateness: 1 point (The translation uses a neutral, technical tone suitable for the subject matter, with no culturally inappropriate elements.)
+Guideline Adherence: 0 point (In a technical or data science context, precision is key. Omitting ""performance"" is a significant deviation from domain-specific guidelines, which require translating all key technical terms accurately.)
+Completeness: 0 point (The translation is incomplete. The key noun ""performance"" from the source text is entirely missing, leaving out a critical piece of information.)
+Total Score: 3 points",3,3,2
+Thank you for coming to the event.,Salamat sa pagpunta sa kaganapan.,5,"Perfect, natural, and accurate.","Excellent, natural, and idiomatic translation.",Roi Victor Roberto / Alfonso Fermin,"### Reference Translation
+Salamat sa inyong pagdalo.
+
+### Evaluation
+**English source text:** Thank you for coming to the event.
+**Translated text:** Salamat sa pagpunta sa kaganapan.
+
+**Accuracy:** 1 point (The translation correctly conveys the core message of gratitude for attending an event. ""Salamat"" is ""Thank you,"" ""pagpunta"" is ""coming,"" and ""kaganapan"" is ""event."")
+
+**Fluency:** 0 point (While grammatically correct, the phrasing is less natural than the reference. In Filipino, ""pagdalo"" (attendance) is more idiomatic and specific for an ""event"" than the more general ""pagpunta"" (coming/going). The reference ""Salamat sa inyong pagdalo"" is a more common and fluent expression in this context.)
+
+**Coherence:** 1 point (The logical structure of the sentence is sound and directly mirrors the source text: [Gratitude] + [Reason]. The flow is clear and easy to understand.)
+
+**Cultural Appropriateness:** 0 point (The translation lacks common Filipino politeness markers. When thanking guests at an event, it is culturally standard to use ""po"" or the formal/plural ""inyo""/""ninyo"" (e.g., ""Salamat po"" or ""Salamat sa inyong pagdalo""). The bare ""Salamat"" can be perceived as too informal or lacking the expected level of respect for the context.)
+
+**Guideline Adherence:** 0 point (The translation deviates from the reference's idiomatic style. It uses a literal word-for-word approach (""pagpunta sa kaganapan"") instead of the more concise and contextually appropriate ""inyong pagdalo"" (your attendance), which is stylistically preferred for this type of formal expression.)
+
+**Completeness:** 1 point (The translation includes all the necessary components of the source text: the expression of thanks, the action of coming, and the concept of the event. No information is missing.)
+
+### Final Score
+**Total Score: 3 points**",3,3,2
+The algorithm efficiently identifies patterns in large datasets.,Mabisang kinikilala ng algoritmo ang mga pattern sa malalaking dataset.,3,"The translation of ""identifies"" as ""kinikilala"" in the context of the sentence is not very accurate. The source text was translated literally.",The translation would have been better if the model didn't translated very literally.,Paul Ivan Enclonar/Alonzo Rimando,"English - The algorithm efficiently identifies patterns in large datasets.
+Translated - Mabisang kinikilala ng algoritmo ang mga pattern sa malalaking dataset.
+
+Accuracy: 1 point (The translation perfectly captures the original meaning. ""Mabisang"" is an excellent equivalent for ""efficiently,"" ""kinikilala"" for ""identifies,"" and the rest of the terms are translated accurately.)
+Fluency: 1 point (The sentence structure ""Mabisang kinikilala ng..."" is natural, common, and fluent in Filipino. The word choice and grammar flow smoothly and do not sound stiff or literal.)
+Coherence: 1 point (The logical relationship between the algorithm, the action, and the data is clear and follows a standard Filipino sentence pattern. The flow is logical and easy to understand.)
+Cultural Appropriateness: 1 point (The tone is neutral and technical, which is perfectly appropriate for the subject matter. There are no cultural missteps.)
+Guideline Adherence: 1 point (The translation uses standard, widely accepted Filipino terminology for technical terms like ""algoritmo,"" ""pattern,"" and ""dataset,"" adhering to common practices in the domain.)
+Completeness: 1 point (All components of the source sentence—the algorithm, the efficiency, the action of identifying, the patterns, and the large datasets—are fully present in the translation.)
+Total Score: 6 points",6,5,2
+"Adobo is one of the most popular dishes in the Philippines, made with soy sauce, vinegar, and garlic.","Ang Adobo ay isa sa mga pinakasikat na ulam sa Pilipinas at ito ay gawa sa toyo, suka, at bawang. ",5,Perfect translation.,"- not sure if “sa” in “gawa sa” is the right word?? but if it’s conversational it’s fine
+- kung formal i’d probably say “gawa gamit ang”",Joaquin de Guzman,"English - Adobo is one of the most popular dishes in the Philippines, made with soy sauce, vinegar, and garlic.
+Translated - Ang Adobo ay isa sa mga pinakasikat na ulam sa Pilipinas at ito ay gawa sa toyo, suka, at bawang.
+
+Accuracy: 1 point (The translation accurately conveys all the key information: Adobo is a popular dish in the Philippines, and it is made from soy sauce, vinegar, and garlic. No meaning is lost or altered.)
+Fluency: 0 points (The use of ""at ito ay"" is grammatically correct but creates a slightly clunky and less natural flow. A more fluent construction would be ""...sa Pilipinas, na gawa sa..."" which uses a relative clause to smoothly connect the second part of the description, mirroring the original sentence's structure more elegantly.)
+Coherence: 0 points (The source text presents the information as a single, coherent thought, with ""made with..."" acting as a direct descriptor. The translation breaks this into two separate clauses joined by ""at"" (""and""), which slightly disrupts the seamless logical flow of the original.)
+Cultural Appropriateness: 1 point (The translation uses standard, appropriate Filipino terms for the dish and its ingredients (ulam, toyo, suka, bawang). The tone is neutral and informative, which is fitting for the context.)
+Guideline Adherence: 0 points (The translation deviates from the more concise and stylistically preferred structure of a high-quality reference. A reference translation would likely use ""...na gawa sa..."" to avoid the repetitive and less sophisticated ""at ito ay..."" construction.)
+Completeness: 1 point (The translation is complete and includes all elements from the source text: the dish (Adobo), its popularity, the location (Philippines), and all three listed ingredients.)
+Total Score: 3 points",3,3,2
+The address bus carries memory addresses to the CPU.,Dinadala ng address bus ang mga memory address papunta sa CPU.,3,"straightforward and generally accurate, tech-based Filipino terms/translations could be argued (eg, ""memory address"" as ""address ng memorya"")",Word-for-word; no effort to adapt terms.,Camron Ong / Arvin Tan,"English - The address bus carries memory addresses to the CPU.
+Translated - Dinadala ng address bus ang mga memory address papunta sa CPU.
+
+Accuracy: 1 point (The translation is a direct and precise rendering of the source text. It accurately conveys that the address bus is the agent, ""carries"" is the action, ""memory addresses"" is the object, and ""the CPU"" is the destination.)
+Fluency: 1 point (The sentence structure ""Dinadala ng..."" is a very natural and common verb-initial construction in Filipino, resulting in a perfectly fluent sentence.)
+Coherence: 1 point (The logical flow is perfectly maintained. The Filipino sentence structure is a standard way to express the subject-verb-object relationship of the English source.)
+Cultural Appropriateness: 1 point (The tone is neutral and technical, which is perfectly appropriate for the subject matter. There are no cultural elements to consider.)
+Guideline Adherence: 1 point (The translation correctly retains the English technical terms like ""address bus,"" ""memory address,"" and ""CPU,"" which is the standard practice for this technical domain in the Philippines.)
+Completeness: 1 point (All components of the source sentence are present in the translation: the agent (address bus), the action (carries), the object (memory addresses), and the destination (CPU).)
+Total Score: 6 points",6,5,2
+"I wanted to invite my youngest to go get some ice cream, if he’ll let me.","Gusto ko imbitahin yung pinakabata kong anak para kumuha ng ice cream, kung papayagan niya ako.",3,"Not the best translation while its mostly correct its not natural, for more casual contexts yayain is more commonly used, additionally youngest child has a word in tagalog called ""bunso"" that would be more appropriate here.","Although the meaning of the original sentence is there, the delivery is very stinted, especially on its word usage (pinakabata and imbitahin).",Lanz Lim / Tyler Tan,"Accuracy: 0 point (The translation misses key nuances. ""Gusto ko"" translates to ""I want,"" failing to capture the softer, past-tense ""I wanted"" from the source, which would be better conveyed by ""Gusto ko sana."" Additionally, ""para kumuha"" (to get/take) does not accurately represent the intended social activity of ""to go get some ice cream,"" which implies eating it together; ""para kumain"" (to eat) would be more accurate.)
+
+Fluency: 0 point (The translation is not fluent or natural. A native speaker would almost always use ""bunso"" for ""youngest (child)"" instead of the literal and clunky ""pinakabata kong anak."" The phrase ""para kumuha ng ice cream"" is highly unnatural; the common idiomatic expressions are ""kumain ng ice cream"" or ""mag-ice cream."")
+
+Coherence: 1 point (The sentence follows a logical structure that mirrors the source text: [Desire] + [Action] + [Recipient] + [Purpose] + [Condition]. The flow of ideas is clear and correctly connected.)
+
+Cultural Appropriateness: 1 point (The tone is suitable for a conversation between a parent and their child. The phrase ""kung papayagan niya ako"" correctly reflects a respectful and appropriate dynamic. There are no cultural missteps.)
+
+Guideline Adherence: 0 point (The translation deviates from the style and terminology of a standard, high-quality reference. It uses literal translations like ""pinakabata"" and ""kumuha"" instead of the more common and idiomatic terms ""bunso"" and ""kumain,"" which would be present in a reference text.)
+
+Completeness: 1 point (All components of the source sentence are present in the translation: the desire to invite, the recipient (my youngest), the activity (get ice cream), and the condition (if he'll let me). No information is missing.)
+
+**Total Score: 2 points**",2,1,2
+The patient was given penicillin to prevent infection.,Ang pasyente ay binigyan ng penicillin upang maiwasan ang impeksyon.,5,"its clear, fluent, formal, and natural, it conveys the clinical intent without making the translation sound forced","Correct translation, and it is not awkward to read as it can be comprehended easily.",Darryl Ty/Rafael Yap,"English - The patient was given penicillin to prevent infection.
+Translated - Ang pasyente ay binigyan ng penicillin upang maiwasan ang impeksyon.
+
+Accuracy: 1 point (The translated text is a direct and accurate equivalent of the source text. All key terms—patient, given, penicillin, prevent, infection—are correctly translated.)
+Fluency: 0 point (The ""Ang... ay..."" construction is grammatically correct but is a formal structure less commonly used in modern, fluent Filipino compared to the more natural verb-first sentence structure, e.g., ""Binigyan ng penicillin ang pasyente..."")
+Coherence: 0 point (While the sentence is logical, its S-V-O structure differs from the standard V-S-O flow of Filipino, which connects the action to the subject more seamlessly. The use of ""ay"" creates a slight disruption in flow compared to the more common structure.)
+Cultural Appropriateness: 1 point (The translation uses a formal and neutral tone suitable for a medical context. The terminology is standard and respectful.)
+Guideline Adherence: 0 point (The translation uses a formal, inverted sentence structure (""di-karaniwang ayos""). Assuming a guideline that prefers the most natural and common Filipino phrasing, this stylistic choice deviates from the preferred verb-first structure.)
+Completeness: 1 point (The translation completely captures all the information from the source sentence: the recipient (the patient), the action (was given), the object (penicillin), the purpose (to prevent), and the condition (infection).)
+Total Score: 3 points",3,3,2
+Sick of tea?! That's like being sick of breathing!,Ayaw mo na ng tsaa?! Parang sinabi mo na ring sawa ka nang huminga!,5,Wording is natural and uses appropriate that properly conveys the emotion in the sentence.,Exceptionally natural translation. Even conveying the emotional surprise and colloquial tone of the original text.,Lanz Lim / Tyler Tan,"English - Sick of tea?! That's like being sick of breathing!
+Translated - Ayaw mo na ng tsaa?! Parang sinabi mo na ring sawa ka nang huminga!
+
+Accuracy: 0 points (The translation uses ""Ayaw mo na ng tsaa?!"" which means ""You don't want tea anymore?!"". This captures the general idea but misses the specific nuance of ""sick of,"" which implies being tired of something from overexposure. A more accurate term would be ""Sawa ka na sa tsaa?!"". This slight difference in meaning reduces accuracy.)
+Fluency: 1 point (The translated text is highly fluent and natural. The phrasing ""Parang sinabi mo na ring..."" is a common and idiomatic way to express comparison in Filipino, making the sentence flow very well.)
+Coherence: 1 point (The translation perfectly maintains the logical structure of the source text. It presents a statement of disbelief followed directly by an exaggerated, parallel comparison, ensuring the message is coherent.)
+Cultural Appropriateness: 1 point (The translation effectively captures the informal, shocked, and hyperbolic tone of the source text. It is a culturally appropriate and natural expression of friendly disbelief in Filipino.)
+Guideline Adherence: 0 points (The translation deviates in terminology. While it uses the correct term ""sawa ka na"" for ""sick of"" in the second clause, it uses the less precise ""Ayaw mo na"" in the first clause, differing from the reference's more direct term ""Sawa ka na"".)
+Completeness: 1 point (The translation is complete and includes all the core ideas from the source: the disbelief about tea, the comparison, and the absurdity of being tired of breathing. No information is omitted.)
+
+Total Score: 3 points",3,3,2
+"Things outside you are projections of what’s inside you, and what’s inside you is a projection of what’s outside.","Ang mga bagay sa labas mo ay salamin ng nasa loob mo, at ang nasa loob mo ay salamin ng nasa labas.",3,"Accurate and clear, though some of the poetic impact is slightly reduced.",The translation replaces a complex phrase with a simpler metaphor.,Lia Guillermo/Lester Anthony Sityar,"Accuracy: 1 point (The translation correctly captures the philosophical meaning of the source text. Using ""salamin"" (mirror/reflection) for ""projection"" is an excellent idiomatic choice that accurately conveys the concept of externalizing one's internal state.)
+Fluency: 1 point (The sentence is highly fluent and natural in Filipino. The parallel structure is maintained gracefully, and the phrasing sounds like a well-formed aphorism or maxim, which matches the tone of the source.)
+Coherence: 1 point (The logical structure of the translation perfectly mirrors the source text's ""A is B, and B is A"" format. The flow is clear, logical, and follows the original's construction without any deviation.)
+Cultural Appropriateness: 1 point (The tone is appropriately philosophical and reflective. The metaphor of a ""salamin"" (mirror) is culturally universal and fits perfectly within the Filipino context to describe the relationship between the inner and outer self.)
+Guideline Adherence: 1 point (The translation adheres to the best practices of translation by choosing an idiomatic equivalent (""salamin"") over a literal one (""prodyeksyon""), which results in a more natural and impactful message. This is an ideal stylistic choice.)
+Completeness: 1 point (All components of the source text are present in the translation: ""things outside you,"" ""what's inside you,"" and the reciprocal relationship between them. No information is lost or altered.)
+Total Score: 6 points",6,5,2
+Taking crazy things seriously is a serious waste of time.,Ang pagseseryoso ng mga bagay na baliw ay isang seryosong pag-aaksaya ng oras.,5,"Captures tone and meaning well, using native-sounding phrasing without sounding forced or literal.",It uses words that flow naturally and matches the tone accurately.,Lia Guillermo/Lester Anthony Sityar,"English - Taking crazy things seriously is a serious waste of time.
+Translated - Ang pagseseryoso ng mga bagay na baliw ay isang seryosong pag-aaksaya ng oras.
+
+Accuracy: 1 point (The translation correctly conveys the core meaning of the source text: that dedicating serious attention to nonsensical matters is a misuse of one's time.)
+Fluency: 0 point (The sentence structure is a direct, literal translation that sounds unnatural and clunky in Filipino. The repetition of ""seryoso"" (""pagseseryoso,"" ""seryosong"") is awkward, and using ""baliw"" for ""things"" is not idiomatic. A more fluent phrasing would be ""Sayang lang sa oras ang pagpatol sa mga kalokohan."")
+Coherence: 1 point (The logical structure of the sentence is sound. It follows the ""Subject + ay + Predicate"" format, which, while sometimes formal, clearly connects the idea of the action to its consequence.)
+Cultural Appropriateness: 1 point (The tone is neutral and aphoristic, which is appropriate. While ""baliw"" can be a sensitive word, its application to inanimate ""bagay"" (things) fits the intended meaning of ""nonsensical"" or ""foolish"" without being offensive.)
+Guideline Adherence: 0 point (The translation adheres to a very literal, word-for-word style rather than an idiomatic one. A better reference translation would use more natural terms like ""kalokohan"" instead of ""mga bagay na baliw"" and would likely avoid the stiff ""Ang... ay..."" structure.)
+Completeness: 1 point (The translation includes all components of the source sentence: the act of taking things seriously, the ""crazy things,"" and the concept of it being a ""serious waste of time."")
+Total Score: 4 points",4,3,2
+"To be able to start fasting, you have to stop eating and drinking anything except water at least 8 hours before your test.","Para makapagsimula ng fasting, tigilan ang pagkain at pag-inom 8 oras bago ang test, tubig lang pwede.",3,"""tigilan"" is awkward in the context making the phrasing weird and casual, and ""pwede"" makes the instruction sound optional when it should be strict. ","The whole sentence sounds awkward, and the number 8 could've been translated into its word form.",Darryl Ty/Rafael Yap,"### Reference Translation
+Para makapagsimula ng pag-aayuno, kailangang itigil ang pagkain at pag-inom ng kahit ano maliban sa tubig nang hindi bababa sa 8 oras bago ang iyong test.
+
+### Evaluation
+**Accuracy: 0 point** (The translation alters the meaning by omitting ""at least."" Stating ""8 oras bago ang test"" (8 hours before the test) is a specific point in time, whereas the source specifies a minimum duration of ""at least 8 hours,"" which is a critical detail in a medical instruction.)
+
+**Fluency: 0 point** (The final clause "", tubig lang pwede"" is tacked on and sounds unnatural. The structure is fragmented. The reference's integrated phrase ""...maliban sa tubig"" (except for water) flows much more smoothly within the sentence.)
+
+**Coherence: 0 point** (The logical flow is disjointed. The exception for water is presented as an afterthought separated by a comma, rather than being an integral part of the main instruction as it is in the source and reference texts.)
+
+**Cultural Appropriateness: 1 point** (The direct, instructional tone is culturally suitable for giving directions or medical advice. The use of loanwords like ""fasting"" and ""test"" is common and acceptable in the Philippines.)
+
+**Guideline Adherence: 0 point** (The translation deviates significantly from the reference's style. It uses an informal, clipped structure (""tubig lang pwede"") and an imperative command (""tigilan"") instead of the more formal and precise ""kailangang itigil"" (it is necessary to stop) which better captures ""you have to"" from the source.)
+
+**Completeness: 0 point** (The translation is incomplete as it completely omits the crucial information ""at least"" (""hindi bababa sa""). This omission is a significant alteration of the source instruction.)
+
+### Total Score: 1 point",1,1,2
+Mark accidentally let the cat out of the bag about the surprise trip.,Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta tungkol sa surprise trip.,3,"Complete, and gramatically correct. However, the idiomatic expression was translated literally which loses the original intent of the sentence.",Idiom was not translated correctly,Boris Victoria / Joel Ethan Batac,"English - Mark accidentally let the cat out of the bag about the surprise trip.
+Translated - Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta tungkol sa surprise trip.
+
+Accuracy: 0 point (The translation completely fails to capture the meaning of the source text. It translates the idiom ""let the cat out of the bag"" literally, resulting in a sentence about physically taking a cat out of a suitcase, not about revealing a secret.)
+Fluency: 0 point (The sentence is grammatically awkward and completely unnatural in Filipino for the intended meaning. A fluent translation would use a phrase like ""naibuking"" or ""naisiwalat"" to convey the revealing of a secret.)
+Coherence: 0 point (The logical connection is destroyed. The translated text creates a nonsensical scenario where physically removing a cat from a suitcase is somehow related to a surprise trip, which is incoherent.)
+Cultural Appropriateness: 0 point (The translation demonstrates a critical failure to understand and adapt a common English idiom for a Filipino audience. This literal translation is culturally and linguistically inappropriate as it misses the idiomatic meaning entirely.)
+Guideline Adherence: 0 point (The translation breaks the fundamental guideline of translating meaning over literal words. It fails to use the correct idiomatic style required by the source text, opting for a nonsensical literal interpretation.)
+Completeness: 0 point (The core piece of information—that a secret was revealed—is completely missing and replaced with an incorrect action. Therefore, the translation is not complete as it fails to convey the main event of the source text.)
+
+Total Score: 0 points",0,1,2
+Eating rice with almost every meal is part of out culture,Bahagi ng ating kultura ang pagkain ng kanin sa halos bawat pagkain,3,doesnt sound natural and can be ambiguous.,gramatically correct but doesn't sound natural,Charlyne Arajoy Carabeo/Geena Tibule,"English - Eating rice with almost every meal is part of our culture
+Translated - Bahagi ng ating kultura ang pagkain ng kanin sa halos bawat pagkain
+Accuracy: 1 point (The translation perfectly captures the meaning of the source text. ""Bahagi ng ating kultura"" correctly translates ""part of our culture,"" and ""pagkain ng kanin sa halos bawat pagkain"" accurately means ""eating rice with almost every meal."")
+Fluency: 1 point (The sentence structure is natural and idiomatic in Filipino. The inverted form ""[Predicate] ang [Subject]"" is very common and flows smoothly.)
+Coherence: 1 point (The logical flow is excellent. The relationship between the concepts—the act of eating rice and its place in the culture—is clearly and correctly established using a standard Filipino sentence pattern.)
+Cultural Appropriateness: 1 point (The tone is neutral and factual, which is entirely appropriate for the statement. The choice of words like ""ating kultura"" and ""kanin"" is perfectly suited to the context.)
+Guideline Adherence: 1 point (The translation uses standard, widely accepted terminology. It is a textbook example of how to translate this phrase, adhering to common grammatical and stylistic norms.)
+Completeness: 1 point (All elements of the source text are present in the translation: ""part of"" (Bahagi ng), ""our culture"" (ating kultura), ""eating rice"" (pagkain ng kanin), and ""almost every meal"" (halos bawat pagkain).)
+Total Score: 6 points",6,5,2
+I have a large collection of non-fiction books that's always well-organized and clean.,Meron akong koleksyon ng mga non-fiction na libro na palagi ko sinisigurado na organisado at malinis.,3,translation is understandable but phrasing and wording can be improved on,"did not translate ""large"" and awkward translation of ""well-organized""",Sherwynn Angeles/Gregory Tiong,"English - I have a large collection of non-fiction books that's always well-organized and clean.
+Translated - Meron akong koleksyon ng mga non-fiction na libro na palagi ko sinisigurado na organisado at malinis.
+
+Accuracy: 0 point (The translation changes the meaning. The source describes the state of the collection (""is always well-organized""), while the translation describes an action taken by the speaker (""I always make sure it is organized""). This is a subtle but significant shift in meaning.)
+Fluency: 0 point (The phrase ""palagi ko sinisigurado na organisado"" is grammatically correct but is more wordy and less fluent than a direct description like ""na laging maayos"" or ""na laging organisado,"" which would be more natural for describing a static quality.)
+Coherence: 0 point (The translation introduces a new clause (""ko sinisigurado na..."") that makes the sentence structure more complex than the source's direct descriptive structure. A more coherent translation would maintain the simple ""collection that is..."" flow.)
+Cultural Appropriateness: 1 point (The tone is informal and conversational, which is perfectly appropriate for the context of someone describing their personal belongings. No cultural missteps are present.)
+Guideline Adherence: 0 point (The translation deviates from the reference style by omitting the key term ""large"" and by restructuring the second half of the sentence from a simple adjective phrase to an active clause.)
+Completeness: 0 point (The translation is incomplete as it completely omits the word ""large,"" which is a key descriptor of the collection in the source text.)
+
+**Total Score: 1 point**",1,1,2
